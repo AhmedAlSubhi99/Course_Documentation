@@ -1,0 +1,273 @@
+# Course Documentation
+
+
+# Software Development Life Cycle(SDLC)
+Software Development Life Cycle provides a practical framework you can apply to your product and improve your processes. It helps us meet customers’ demands, needs, and expectations. You can outline and define a detailed plan for stages, phases, and requirements with SDLC. It covers planning, estimating, and scheduling.
+
+## Phases:
+
+### 1- Analysis phase:
+
+Critical phase within the Software Development Life Cycle (SDLC) where detailed requirements are gathered and analyzed to ensure a clear understanding of the project’s scope and objectives.
+
+Defines functional and non-functional requirements.
+
+Establishes clear specifications for the system.
+
+Gather and document user expectations.
+
+#### Input:
+
+Customer requirements
+Business needs
+
+#### Output:
+
+Software Requirement Specification (SRS)
+User stories and use case diagrams
+
+### 2- Design phase: 
+
+Design phase is all about building the framework. The development team is responsible for software engineering and outlines the software's functionality and aesthetic. This ultimately results in the software product. The emphasis lies on outlining the software's structure, navigation, user interfaces, and database design. This phase ensures that the software is user-friendly and performs its tasks efficiently.
+
+User Interface (UI) and User Experience (UX) Design Design the user interface to ensure a seamless and user-friendly experience. Consider usability, accessibility, and visual aesthetics in the design process.
+
+Translates requirements into a blueprint for implementation.
+
+Create the software’s architecture and user interfaces.
+
+#### Input:
+
+SRS document
+
+#### Output:
+
+System design documents
+Database schema
+Wireframes and UI mockups
+
+### 3- Development phase:
+
+The development stage is the part where developers actually write code and build the application according to the earlier design documents and outlined specifications. In general, Its write the code.
+
+Converts design into actual software using programming languages.
+
+#### Two types:
+
+1-Front-end Developer: someone who creates websites and web applications.
+
+2-Back-end Developer: working on server-side software, which focuses on everything you can’t see on a website.
+
+#### Input:
+
+Design documents
+
+#### Output:
+
+Source code
+Executable software
+
+### 4- Testing phase:
+
+the testing is done to ensure that the entire application works according to the customer requirements. After testing, the QA and testing team might find some bugs or defects and communicate the same with the developers.
+
+Assemble the modules in a testing environment. Check for errors, bugs, and interoperability.
+
+Ensure that it meets the requirements and works correctly.
+
+#### Input:
+
+Source code
+Test cases
+
+#### Output:
+
+Test reports
+Bug reports
+
+### 5- Deployment phase:
+
+Delivers the final product to the customer in a live production environment.
+
+Deploy the software in a production environment.
+
+Makes the software available to end users.
+
+#### Input:
+
+Tested software
+
+#### Output:
+
+Live production software
+
+### 6- Maintenance phase:
+
+an essential component that ensures continued software functionality, handles vital repairs and updates, and ensures that the software remains relevant and usable. Also, handles enhancements and user support.
+
+Used for: 
+Fix bugs
+Update features
+Optimize performance
+
+#### Input:
+
+Feedback from users
+Bug reports
+
+#### Output:
+
+Updated versions of software
+Performance reports
+
+
+## - Roles of SDLC
+
+### 1-Product Owner
+#### Responsibilities:
+
+Define product vision and roadmap.
+Prioritize features and manage the product backlog.
+Work with stakeholders and development teams.
+Ensure the product meets business needs.
+
+#### Tools:
+
+Product Management: Jira, Trello, Azure DevOps
+User Feedback and Analytics: Google Analytics, Hotjar
+
+### 2-Project Manager
+
+#### Responsibilities:
+
+Plan, execute, and monitor projects.
+Define project scope, budget, and timeline.
+Manage risks and resources.
+Communicate with stakeholders.
+
+#### Tools:
+
+Project Management: Microsoft Project, Jira, Trello, Monday.com
+Collaboration: Slack, Microsoft Teams, Zoom
+Documentation: Confluence, Google Docs
+
+### 3-Business Analyst
+
+#### Responsibilities:
+
+Gather and analyze business requirements.
+Create functional and non-functional specifications.
+Document Software Requirement Specification (SRS).
+Act as a bridge between stakeholders and developers.
+
+#### Tools:
+
+Documentation: Microsoft Word
+Diagrams: Microsoft Visio
+
+### 4-Software Architect
+
+#### Responsibilities:
+
+Design internal software structure (modules, classes, components).
+Define coding standards and best practices.
+Ensure maintainability and scalability of the system.
+
+#### Tools:
+
+Development: Visual Studio
+
+### 5-UI/UX Designer
+
+#### Responsibilities:
+
+Design intuitive user interfaces and experiences.
+Create wireframes, prototypes, and visual designs.
+Conduct usability testing and research.
+
+#### Tools:
+
+Design & Prototyping: Figma, Adobe XD, Sketch
+Wireframing: Balsamiq, Axure RP
+User Testing: Hotjar, UserTesting
+
+### 6-Front-end Developer
+
+#### Responsibilities:
+
+Develop and implement UI components.
+Ensure responsiveness and cross-browser compatibility.
+Optimize web performance.
+
+#### Tools:
+
+Language: HTML, CSS, JavaScript
+Framework: React.js, Angular
+
+### 7-Back-end Developer
+
+#### Responsibilities:
+
+Develop server-side logic and APIs.
+Handle database interactions.
+Ensure security, performance, and scalability.
+
+#### Tools:
+
+Language: C# (.NET), Java, Python
+Database: SQL Server, MongoDB
+
+### 8-Solutions Architect
+
+#### Responsibilities:
+
+Design high-level software architecture.
+Choose technology stacks and frameworks.
+Ensure scalability, security, and performance.
+Guide developers on system integration.
+
+#### Tools:
+
+Cloud Platform: Microsoft Azure, Google Cloud
+Diagramming: Microsoft Visio
+
+### 9-QA Engineer
+
+#### Responsibilities:
+
+Develop and execute test cases.
+Perform manual and automated testing.
+Report and track defects.
+
+#### Tools:
+
+Automated Testing: Selenium, Cypress
+Performance Testing: JMeter, LoadRunner
+Bug Tracking: Jira, TestRail
+
+### 10-DevOps Engineer
+
+#### Responsibilities:
+
+Automate deployment, integration, and monitoring.
+Manage cloud infrastructure and CI/CD pipelines.
+Ensure high availability and reliability.
+
+#### Tools:
+
+CI/CD: Jenkins, GitHub Actions, GitLab CI/CD
+Containerization: Docker, Kubernetes
+Cloud Platforms: AWS, Azure, GCP
+
+### 11-Data Administrator
+ 
+#### Responsibilities:
+
+Design and manage databases.
+Optimize performance and indexing.
+Ensure backup, recovery, and security.
+
+#### Tools:
+
+Database Management: SQL Server Management Studio (SSMS), MySQL Workbench
+Performance Monitoring: SolarWinds, Redgate SQL Monitor
