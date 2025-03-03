@@ -4,6 +4,8 @@
 # Software Development Life Cycle(SDLC)
 Software Development Life Cycle provides a practical framework you can apply to your product and improve your processes. It helps us meet customers’ demands, needs, and expectations. You can outline and define a detailed plan for stages, phases, and requirements with SDLC. It covers planning, estimating, and scheduling.
 
+![1  SDLC](https://github.com/user-attachments/assets/71f861d8-bfa1-4b4d-baac-cf15cf280133)
+
 ## Phases:
 
 ### 1- Analysis phase:
