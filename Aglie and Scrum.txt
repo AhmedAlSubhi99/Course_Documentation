@@ -1,0 +1,16 @@
+What is Agile Methodology?
+
+Agile is a flexible, iterative, and collaborative approach to software development that focuses on delivering small, incremental improvements instead of a big final release. It helps teams respond quickly to changing requirements and continuously improve their software based on feedback.
+
+Purposes of Agile:
+
+Deliver Value Faster: Instead of waiting months for a full product, Agile delivers small, usable features quickly.
+
+Adapt to Changes: Agile allows teams to adjust project goals based on customer feedback and market trends.
+
+Improve Collaboration: Encourages continuous communication between developers, testers, product owners, and stakeholders.
+
+Ensure High Quality: Frequent testing and feedback help catch bugs early, reducing costly fixes later.
+
+Enhance Customer Satisfaction: Customers see progress frequently and get a product that meets their real needs.
+
