@@ -132,3 +132,30 @@ Best Practices for Waterfall:
 3- Proper Documentation: Maintain extensive documentation for future reference.
 4- Allocate Time for Testing: Ensure sufficient time for final testing and bug fixing.
 5- Set Realistic Milestones: Break down the project into achievable phases.
+
+Agile Frameworks:
+
+1- Scrum:
+
+It is Most Common.
+
+Best For: Software development, IT projects, and fast-paced teams.
+
+2️- Kanban:
+
+It is Visual Workflow Management
+
+Best For: Continuous delivery, operations, and support teams.
+
+3- Crystal Agile:
+
+It is People-Centric Agile Approach.
+
+Best For: Small teams with a focus on communication & collaboration.
+
+4- Lean Agile:
+
+It is Eliminating Waste and Maximizing Value.
+
+Best For: Startups and teams focusing on efficiency & minimal waste.
+
