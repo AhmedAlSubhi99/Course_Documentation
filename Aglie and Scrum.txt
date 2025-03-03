@@ -159,3 +159,103 @@ It is Eliminating Waste and Maximizing Value.
 
 Best For: Startups and teams focusing on efficiency & minimal waste.
 
+Scrum Framework in Agile:
+
+Scrum is an Agile framework used to develop, deliver, and sustain complex products through iterative and incremental work. It provides a structured yet flexible approach to project management by emphasizing teamwork, accountability, and continuous improvement.
+
+1- Scrum Roles:
+
+1. Product Owner (PO)
+
+Represents the customer/stakeholders.
+Defines and prioritizes the Product Backlog (a list of features, changes, and fixes).
+Ensures the development team delivers value to the business.
+Makes decisions about the product scope and direction.
+Works closely with stakeholders and the development team.
+
+2. Scrum Master
+
+Acts as a facilitator and coach for the Scrum Team.
+Ensures that Scrum principles and best practices are followed.
+Removes obstacles that might slow down the team.
+Helps the Product Owner refine backlog items.
+Shields the team from external interruptions.
+
+3. Development Team
+
+Cross-functional team (developers, testers, designers, etc.).
+Self-organizing and accountable for delivering a working product increment at the end of each Sprint.
+Collaborates with the Product Owner to clarify requirements.
+Estimates tasks and plans work during Sprint Planning.
+Delivers potentially shippable product increments each Sprint.
+
+2- Scrum Events:
+
+1. Sprint
+
+A fixed-length iteration (usually 1-4 weeks, commonly 2 weeks).
+Starts immediately after the previous Sprint ends.
+Goal: Deliver a potentially shippable product increment.
+The scope can be adjusted, but no changes should disrupt the Sprint Goal.
+
+2. Sprint Planning
+
+Duration: ~4-8 hours for a 4-week Sprint (shorter for smaller Sprints).
+Attendees: Product Owner, Scrum Master, Development Team.
+Purpose: Decide what work will be completed in the upcoming Sprint.
+
+Two parts:
+WHAT will be delivered? (Product Owner presents priorities)
+HOW will it be done? (Development Team breaks down work)
+
+3. Daily Scrum
+
+Duration: 15 minutes, every day.
+Attendees: Development Team (Scrum Master and Product Owner can attend but shouldn’t disrupt).
+Purpose: Sync the team’s work and plan the day.
+
+4. Sprint Review
+
+Duration: ~1-4 hours (depending on Sprint length).
+Attendees: Scrum Team, stakeholders.
+
+Purpose:
+Showcase the completed work.
+Gather feedback from stakeholders.
+Discuss possible changes for future Sprints.
+
+5. Sprint Retrospective
+
+Duration: ~1-3 hours.
+Attendees: Scrum Team.
+
+Purpose:
+Reflect on the past Sprint.
+Identify what went well, what didn’t, and what can be improved.
+Actionable improvements for the next Sprint.
+
+3- Scrum Key Deliverables:
+
+1. Product Backlog
+
+A prioritized list of everything needed in the product.
+Maintained by the Product Owner.
+Items are refined continuously.
+
+2. Sprint Backlog
+
+A set of tasks selected for the Sprint from the Product Backlog.
+Owned by the Development Team.
+Includes a Sprint Goal.
+
+3. Increment
+
+A working version of the product delivered at the end of each Sprint.
+Must meet the Definition of Done (DoD).
+
+4- Benefits of Scrum:
+
+Faster delivery of high-quality products.
+Increased collaboration and transparency.
+Continuous improvement through feedback loops.
+More flexibility in handling changing requirements.
