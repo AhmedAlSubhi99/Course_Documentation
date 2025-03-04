@@ -7,8 +7,8 @@
 <!-- TOC toc.levels=2 -->
 
 - ## [Software Development Life Cycle](#software-development-life-cycle)
-  - #### [Phases](#phases)
-  - #### [Roles of SDLC](#roles-of-sdlc)
+  - #### [Phases](##phases)
+  - #### [Roles of SDLC](##roles-of-sdlc)
 - ## [Agile And Scrum](#agile-and-scrum)
   - #### [What is Agile Methodology?](#what-is-agile-methodology)
   - #### [Purposes of Agile](#purposes-of-agile)
@@ -346,27 +346,27 @@ Best for: Projects with changing requirements, customer involvement, and the nee
 
 - Use Agile When:
 
-   - Requirements are Uncertain or Evolving:
+1. Requirements are Uncertain or Evolving:
 
 If the project scope may change based on market needs or stakeholder feedback.
 Example: Developing a new mobile app or SaaS platform where features change frequently.
 
-   - Quick Delivery & Iterative Releases Are Needed:
+2. Quick Delivery & Iterative Releases Are Needed:
 
 You need fast, incremental releases instead of one big launch.
 Example: A web application where features roll out gradually.
 
-   - Customer Involvement is High:
+3. Customer Involvement is High:
 
 The client or users need to provide continuous feedback.
 Example: A startup building an MVP (Minimum Viable Product) with user testing.
 
-   - Complex or High-Risk Projects:
+4. Complex or High-Risk Projects:
 
 If the project is highly technical, Agile helps mitigate risks early.
 Example: AI/ML applications that need regular model retraining and fine-tuning.
 
-   - Teams Need Flexibility & Collaboration:
+5. Teams Need Flexibility & Collaboration:
 
 If the team prefers daily stand-ups, real-time collaboration, and self-management.
 Example: Agile software development teams using Scrum or Kanban.
@@ -378,36 +378,32 @@ Best for: Projects with well-defined requirements, fixed budgets, and strict reg
 
 - Use Waterfall When:
 
-    - Requirements Are Fixed & Well-Defined:
+  1. Requirements Are Fixed & Well-Defined:
 
 If all requirements are clear from the start and unlikely to change.
 Example: Banking system software with strict compliance rules.
 
-    - Project Has a Fixed Budget & Timeline:
+  2. Project Has a Fixed Budget & Timeline:
 
 If the project scope, cost, and schedule must be predefined and controlled.
 Example: A government project or defense system with strict deadlines.
 
-    - Customer Involvement is Limited:
+  3. Customer Involvement is Limited:
 
 If the client only wants to see the final product and does not need regular updates.
 Example: Enterprise software development for internal business use.
 
-    - High-Risk, High-Precision Projects:
+  4. High-Risk, High-Precision Projects:
 
 If errors are costly and unacceptable, like in medical software or aerospace projects.
 Example: Hospital patient record systems, air traffic control software.
 
-    - Well-Documented & Predictable Process Needed:
+  5. Well-Documented & Predictable Process Needed:
 
 If extensive documentation is a requirement for compliance.
 Example: Pharmaceutical software adhering to FDA regulations.
 
 ![Agile_vs_Waterfall_Differences_in_Software_Development_Methodologies](https://github.com/user-attachments/assets/b5dcde9d-d91f-44f8-8f88-d0771501cee3)
-
-
-![images](https://github.com/user-attachments/assets/4b9b9138-1e8d-4f5c-9a19-feefa83301ca)
-
 
 ### Best Practices for Agile
 
