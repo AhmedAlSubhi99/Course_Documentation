@@ -235,4 +235,37 @@ Supports Redis, Memcached, and file-based caching for performance.
 
 Works well with cloud-based solutions and microservices (Laravel Vapor for AWS).
 
+Tools of development that are used in .NET stack
+
+1- Integrated Development Environments (IDEs)
+
+Visual Studio : Full-featured IDE for .NET development.
+Visual Studio Code (VS Code) : Lightweight, cross-platform code editor.
+JetBrains Rider : Alternative IDE for .NET with great performance.
+
+2- Programming Languages
+
+C# : Main language for .NET applications.
+VB.NET : Used in legacy applications.
+F# : Functional programming language.
+
+3- Frameworks
+
+.NET (formerly .NET Core) : Modern, cross-platform framework.
+.NET Framework : Windows-only, used for older applications.
+Mono : Cross-platform runtime, mainly for Unity (game development).
+
+4- Web Development
+
+ASP.NET Core : Web framework for building APIs and applications.
+Blazor : For building interactive web UIs with C#.
+Razor Pages : Simplified web application model in ASP.NET Core.
+
+5- DevOps Tools
+
+Azure DevOps : CI/CD, version control, and project management.
+GitHub Actions : Automation for builds, testing, and deployment.
+Docker : Containerization for .NET applications.
+Kubernetes : Orchestration for containerized apps.
+Azure Functions : Serverless computing with .NET.
 
