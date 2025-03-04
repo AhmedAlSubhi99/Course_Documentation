@@ -543,11 +543,280 @@ Includes a Sprint Goal.
 A working version of the product delivered at the end of each Sprint.
 Must meet the Definition of Done (DoD).
 
-### Benefits of Scrum
+**Benefits of Scrum** 
 
 Faster delivery of high-quality products.
 Increased collaboration and transparency.
 Continuous improvement through feedback loops.
 More flexibility in handling changing requirements.
 
+# Web Development Stacks
+
+A web application consists of multiple components that work together to deliver functionality, maintain security, and ensure scalability. These components can be divided into frontend (client-side), backend (server-side), and infrastructure services.
+
+**1- Frontend (Client-Side)**
+
+The frontend is what users interact with. It runs in the browser and communicates with the backend.
+
+Key Components:
+
+**1. User Interface (UI)**
+
+HTML (Structure)
+CSS (Styling)
+JavaScript (Behavior & Interactivity)
+Frontend frameworks (e.g., React, Angular, Vue.js)
+
+**2. Client-Side Logic**
+
+Handles UI interactions, form validations, and user input.
+Fetches data from the backend via APIs (AJAX, Fetch, Axios).
+
+**3. Static Assets**
+
+Images, fonts, CSS files, JavaScript files, etc.
+
+**4. Progressive Web App (PWA) Features** 
+
+Service Workers (Offline functionality)
+Web Push Notifications
+App Manifest for mobile-friendly experiences
+
+**2- Backend (Server-Side)**
+
+The backend handles business logic, data processing, authentication, and communication with databases.
+
+**Key Components:**
+
+**1. Web Server**
+
+Handles HTTP requests and serves responses.
+Examples: Nginx, Apache, IIS.
+
+**2. Application Server**
+
+Processes business logic.
+Frameworks: .NET, Node.js, Spring Boot, Django, Laravel.
+
+**3. Database Server**
+
+Stores and manages data.
+SQL Databases: MySQL, PostgreSQL, SQL Server.
+NoSQL Databases: MongoDB, Firebase, Cassandra.
+
+**4. APIs (REST, GraphQL, gRPC)**
+
+Allows the frontend to communicate with the backend.
+Examples: Express.js, ASP.NET Web API, FastAPI.
+
+**5. Authentication & Authorization**
+
+Manages user access.
+OAuth, JWT, OpenID, SAML.
+
+**6. Caching Layer**
+
+Improves performance by storing frequent requests.
+Examples: Redis, Memcached.
+
+**7. Messaging & Event-Driven Architecture**
+
+Handles background tasks & real-time communication.
+Message brokers: RabbitMQ, Kafka.
+WebSockets for real-time updates.
+
+**8. File Storage**
+
+Manages user-uploaded content.
+Local: File System.
+Cloud: Amazon S3, Google Cloud Storage.
+
+***3- Services***
+
+These services ensure security, scalability, and performance.
+
+**Key Services:**
+
+**1. Load Balancer**
+
+Distributes traffic across multiple servers.
+Examples: AWS Elastic Load Balancer, HAProxy.
+
+**2. CDN (Content Delivery Network)**
+
+Speeds up content delivery by caching assets closer to users.
+Examples: Cloudflare, Akamai.
+
+**3. Logging & Monitoring**
+
+Tracks application health & errors.
+Tools: Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), New Relic.
+
+**4. CI/CD (Continuous Integration & Deployment)**
+
+Automates code testing & deployment.
+Tools: GitHub Actions, Jenkins, GitLab CI/CD.
+
+5. Security Services
+
+Firewalls, DDoS protection, Intrusion Detection Systems (IDS).
+Examples: WAF (Web Application Firewall), Cloudflare Security.
+
+6. Containerization & Orchestration
+
+Deploy apps in isolated environments.
+Tools: Docker, Kubernetes.
+
+7. Cloud Services
+
+Hosting & computing platforms.
+Examples: AWS, Azure, Google Cloud.
+
+8. Third-Party Integrations
+
+Payment gateways: Stripe, PayPal.
+Email services: SendGrid, Mailgun.
+Analytics: Google Analytics, Mixpanel.
+
+4. Web Application Architecture Types
+
+1. Monolithic Architecture
+
+Entire application is a single unit.
+Simpler but harder to scale.
+
+2. Microservices Architecture
+
+Application is broken into independent services.
+More scalable but complex.
+
+3. Serverless Architecture
+
+Uses cloud functions (AWS Lambda, Azure Functions).
+No need to manage servers.
+
+4. Single Page Application (SPA)
+
+Frontend dynamically updates without full page reload.
+Examples: React, Vue, Angular.
+
+Web Development Stacks
+
+1- MERN Stack (MongoDB, Express.js, React, Node.js)
+
+Where to Use: Dashboards, interactive applications, e-commerce platforms.
+
+When to Use: When frontend interactivity and performance are priorities.
+
+Key Features:
+React's component-based UI improves frontend performance.
+Node.js enables non-blocking, event-driven backend execution.
+Great for single-page applications (SPAs).
+
+2- Django Stack (Python, Django, PostgreSQL)
+
+Where to Use: Data-intensive applications, analytics dashboards, machine learning applications.
+
+When to Use: When security and scalability are important.
+
+Key Features:
+Built-in authentication and security features.
+Python-based backend simplifies integration with data analytics.
+ORM simplifies database interactions.
+
+3- Spring Boot Stack (Java, Spring Boot, PostgreSQL)
+
+Where to Use: Enterprise applications, financial systems, government platforms.
+
+When to Use: When building secure, scalable, high-performance enterprise applications.
+
+Key Features:
+Built-in security and authentication.
+Ideal for microservices architecture.
+Strong integration with enterprise databases.
+
+4- .NET Stack (ASP.NET Core, C#)
+
+Where to Use: Corporate portals, SaaS applications, enterprise software.
+
+When to Use: When working within the Microsoft ecosystem.
+
+Key Features:
+High performance and scalability.
+Strong security features.
+Excellent cloud and API support.
+
+5- Laravel Stack
+
+Where to Use: Business applications, SaaS, CRM, CMS (like WordPress alternatives), e-commerce.
+
+When to Use: When you need rapid development, clean architecture, built-in security, and easy API integration.
+
+Features:
+
+1- MVC Architecture	
+
+Laravel follows the Model-View-Controller (MVC) pattern, making code structured and maintainable.
+
+2- Blade Templating	
+
+Built-in templating engine for frontend rendering.
+
+3- Routing System	
+
+Simple and efficient routing with middleware support.
+
+4- Security	
+
+Built-in authentication, role-based access control (RBAC), CSRF protection.
+
+5- API Development	
+
+Laravel provides built-in support for RESTful APIs, JSON responses, and GraphQL integration.
+
+6- Task Scheduling	
+
+Laravel Scheduler helps automate jobs like email notifications, report generation.
+
+7- Caching	
+
+Supports Redis, Memcached, and file-based caching for performance.
+
+8- Scalability	
+
+Works well with cloud-based solutions and microservices (Laravel Vapor for AWS).
+
+Tools of development that are used in .NET stack
+
+1- Integrated Development Environments (IDEs)
+
+Visual Studio : Full-featured IDE for .NET development.
+Visual Studio Code (VS Code) : Lightweight, cross-platform code editor.
+JetBrains Rider : Alternative IDE for .NET with great performance.
+
+2- Programming Languages
+
+C# : Main language for .NET applications.
+VB.NET : Used in legacy applications.
+F# : Functional programming language.
+
+3- Frameworks
+
+.NET (formerly .NET Core) : Modern, cross-platform framework.
+.NET Framework : Windows-only, used for older applications.
+Mono : Cross-platform runtime, mainly for Unity (game development).
+
+4- Web Development
+
+ASP.NET Core : Web framework for building APIs and applications.
+Blazor : For building interactive web UIs with C#.
+Razor Pages : Simplified web application model in ASP.NET Core.
+
+5- DevOps Tools
+
+Azure DevOps : CI/CD, version control, and project management.
+GitHub Actions : Automation for builds, testing, and deployment.
+Docker : Containerization for .NET applications.
+Kubernetes : Orchestration for containerized apps.
+Azure Functions : Serverless computing with .NET.
 
