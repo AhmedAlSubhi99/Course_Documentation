@@ -35,7 +35,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
 
 ## Phases
 
-1- Analysis phase:
+**1- Analysis phase:**
 
 - Critical phase within the Software Development Life Cycle (SDLC) where detailed requirements are gathered and analyzed to ensure a clear understanding of the project’s scope and objectives.
 - Defines functional and non-functional requirements.
@@ -52,7 +52,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
   - Software Requirement Specification (SRS)
   - User stories and use case diagrams
 
-2- Design phase: 
+**2- Design phase:**
 
 - Design phase is all about building the framework. The development team is responsible for software engineering and outlines the software's functionality and aesthetic. This ultimately results in the software product. The emphasis lies on outlining the software's structure, navigation, user interfaces, and database design. This phase ensures that the software is user-friendly and performs its tasks efficiently.
 - User Interface (UI) and User Experience (UX) Design Design the user interface to ensure a seamless and user-friendly experience. Consider usability, accessibility, and visual aesthetics in the design process.
@@ -67,7 +67,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
   - Database schema
   - Wireframes and UI mockups
 
-3- Development phase:
+**3- Development phase:**
 
 - The development stage is the part where developers actually write code and build the application according to the earlier design documents and outlined specifications. In general, Its write the code.
 - Converts design into actual software using programming languages.
@@ -85,7 +85,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
  - Source code
  - Executable software
 
-4- Testing phase:
+**4- Testing phase:**
 
 - The testing is done to ensure that the entire application works according to the customer requirements. After testing, the QA and testing team might find some bugs or defects and communicate the same with the developers.
 - Assemble the modules in a testing environment. Check for errors, bugs, and interoperability.
@@ -99,7 +99,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
   - Test reports
   - Bug reports
 
-5- Deployment phase:
+**5- Deployment phase:**
 
 - Delivers the final product to the customer in a live production environment.
 - Deploy the software in a production environment.
@@ -111,7 +111,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
 - Output:
    -Live production software
 
-6- Maintenance phase:
+**6- Maintenance phase:**
 
 - an essential component that ensures continued software functionality, handles vital repairs and updates, and ensures that the software remains relevant and usable. Also, handles enhancements and user support.
 
@@ -131,7 +131,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
 
 ## Roles of SDLC
 
-1-Product Owner
+**1-Product Owner**
 
 - Responsibilities:
    - Define product vision and roadmap.
@@ -143,7 +143,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
    - Product Management: Jira, Trello, Azure DevOps
    - User Feedback and Analytics: Google Analytics, Hotjar
 
-2-Project Manager
+**2-Project Manager**
 
 - Responsibilities:
 
@@ -158,7 +158,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
   - Collaboration: Slack, Microsoft Teams, Zoom
   - Documentation: Confluence, Google Docs
 
-3-Business Analyst
+**3-Business Analyst**
 
 - Responsibilities:
 
@@ -172,7 +172,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
    - Documentation: Microsoft Word
    - Diagrams: Microsoft Visio
 
-4-Software Architect
+**4-Software Architect**
 
 - Responsibilities:
 
@@ -184,7 +184,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
 
    - Development: Visual Studio
 
-5-UI/UX Designer
+**5-UI/UX Designer**
 
 - Responsibilities:
 
@@ -198,7 +198,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
    - Wireframing: Balsamiq, Axure RP
    - User Testing: Hotjar, UserTesting
 
-6-Front-end Developer
+**6-Front-end Developer**
 
 - Responsibilities:
 
@@ -211,7 +211,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
     - Language: HTML, CSS, JavaScript
     - Framework: React.js, Angular
 
-7-Back-end Developer
+**7-Back-end Developer**
 
 - Responsibilities:
 
@@ -224,7 +224,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
    - Language: C# (.NET), Java, Python
    - Database: SQL Server, MongoDB
 
-8-Solutions Architect
+**8-Solutions Architect**
 
 - Responsibilities:
 
@@ -238,7 +238,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
   - Cloud Platform: Microsoft Azure, Google Cloud
   - Diagramming: Microsoft Visio
 
-9-QA Engineer
+**9-QA Engineer**
 
 - Responsibilities:
 
@@ -252,7 +252,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
    - Performance Testing: JMeter, LoadRunner
    - Bug Tracking: Jira, TestRail
 
-10-DevOps Engineer
+**10-DevOps Engineer**
 
 - Responsibilities:
 
@@ -266,7 +266,7 @@ Software Development Life Cycle provides a practical framework you can apply to 
    - Containerization: Docker, Kubernetes
    - Cloud Platforms: AWS, Azure, GCP
 
-11-Data Administrator
+**11-Data Administrator**
  
 - Responsibilities:
 
@@ -317,8 +317,6 @@ Agile methodologies are about teamwork, customer satisfaction, constant refineme
 1- Faster Delivery: Continuous releases provide early software versions.
 2- Flexibility & Adaptability: Can change requirements mid-project.
 3- Customer Satisfaction: Frequent feedback ensures alignment with business needs.
-4- Early Bug Detection: Continuous testing improves quality.
-5- Improved Collaboration: Encourages communication between teams.
 
 ### Agile Model Disadvantages
 
@@ -329,7 +327,6 @@ Agile methodologies are about teamwork, customer satisfaction, constant refineme
 ### Waterfall Model Advantages
 
 1- Clear Structure: Well-defined phases make planning straightforward.
-2- Best for Fixed Budgets & Timelines: Predictable costs and schedules.
 3- Well-Documented Process: Helps in future maintenance and compliance-heavy industries.
 4- Easier to Manage: Defined stages and deliverables make tracking simpler.
 
@@ -346,31 +343,11 @@ Best for: Projects with changing requirements, customer involvement, and the nee
 
 - Use Agile When:
 
-1. Requirements are Uncertain or Evolving:
-
-If the project scope may change based on market needs or stakeholder feedback.
-Example: Developing a new mobile app or SaaS platform where features change frequently.
-
-2. Quick Delivery & Iterative Releases Are Needed:
-
-You need fast, incremental releases instead of one big launch.
-Example: A web application where features roll out gradually.
-
-3. Customer Involvement is High:
-
-The client or users need to provide continuous feedback.
-Example: A startup building an MVP (Minimum Viable Product) with user testing.
-
-4. Complex or High-Risk Projects:
-
-If the project is highly technical, Agile helps mitigate risks early.
-Example: AI/ML applications that need regular model retraining and fine-tuning.
-
-5. Teams Need Flexibility & Collaboration:
-
-If the team prefers daily stand-ups, real-time collaboration, and self-management.
-Example: Agile software development teams using Scrum or Kanban.
-
+1. Requirements are Uncertain or Evolving
+2. Quick Delivery & Iterative Releases Are Needed
+3. Customer Involvement is High
+4. Complex or High-Risk Projects
+5. Teams Need Flexibility & Collaboration
 
 ## When to Use Waterfall?
 
@@ -378,32 +355,16 @@ Best for: Projects with well-defined requirements, fixed budgets, and strict reg
 
 - Use Waterfall When:
 
-  1. Requirements Are Fixed & Well-Defined:
-
-If all requirements are clear from the start and unlikely to change.
-Example: Banking system software with strict compliance rules.
-
-  2. Project Has a Fixed Budget & Timeline:
-
-If the project scope, cost, and schedule must be predefined and controlled.
-Example: A government project or defense system with strict deadlines.
-
+  1. Requirements Are Fixed & Well-Defined
+  2. Project Has a Fixed Budget & Timeline
   3. Customer Involvement is Limited:
-
-If the client only wants to see the final product and does not need regular updates.
-Example: Enterprise software development for internal business use.
-
   4. High-Risk, High-Precision Projects:
-
-If errors are costly and unacceptable, like in medical software or aerospace projects.
-Example: Hospital patient record systems, air traffic control software.
-
   5. Well-Documented & Predictable Process Needed:
 
-If extensive documentation is a requirement for compliance.
-Example: Pharmaceutical software adhering to FDA regulations.
-
+  
 ![Agile_vs_Waterfall_Differences_in_Software_Development_Methodologies](https://github.com/user-attachments/assets/b5dcde9d-d91f-44f8-8f88-d0771501cee3)
+
+
 
 ### Best Practices for Agile
 
@@ -425,37 +386,25 @@ Example: Pharmaceutical software adhering to FDA regulations.
 ## Agile Frameworks
 
 
-1- Scrum:
+**1- Scrum:**
 
 It is Most Common.
 
 Best For: Software development, IT projects, and fast-paced teams.
 
-2- Kanban:
+**2- Kanban:**
 
 It is Visual Workflow Management
 
 Best For: Continuous delivery, operations, and support teams.
 
-3- Crystal Agile:
-
-It is People-Centric Agile Approach.
-
-Best For: Small teams with a focus on communication & collaboration.
-
-4- Lean Agile:
-
-It is Eliminating Waste and Maximizing Value.
-
-Best For: Startups and teams focusing on efficiency & minimal waste.
-
 ## Scrum Framework in Agile
 
 Scrum is an Agile framework used to develop, deliver, and sustain complex products through iterative and incremental work. It provides a structured yet flexible approach to project management by emphasizing teamwork, accountability, and continuous improvement.
 
-1- Scrum Roles
+***1- Scrum Roles***
 
-1. Product Owner (PO)
+**1. Product Owner (PO)**
 
 Represents the customer/stakeholders.
 Defines and prioritizes the Product Backlog (a list of features, changes, and fixes).
@@ -463,7 +412,7 @@ Ensures the development team delivers value to the business.
 Makes decisions about the product scope and direction.
 Works closely with stakeholders and the development team.
 
-2. Scrum Master
+**2. Scrum Master**
 
 Acts as a facilitator and coach for the Scrum Team.
 Ensures that Scrum principles and best practices are followed.
@@ -471,7 +420,7 @@ Removes obstacles that might slow down the team.
 Helps the Product Owner refine backlog items.
 Shields the team from external interruptions.
 
-3. Development Team
+**3. Development Team**
 
 Cross-functional team (developers, testers, designers, etc.).
 Self-organizing and accountable for delivering a working product increment at the end of each Sprint.
@@ -479,69 +428,19 @@ Collaborates with the Product Owner to clarify requirements.
 Estimates tasks and plans work during Sprint Planning.
 Delivers potentially shippable product increments each Sprint.
 
-2- Scrum Events:
+***2- Scrum Events:***
 
 1. Sprint
-
-A fixed-length iteration (usually 1-4 weeks, commonly 2 weeks).
-Starts immediately after the previous Sprint ends.
-Goal: Deliver a potentially shippable product increment.
-The scope can be adjusted, but no changes should disrupt the Sprint Goal.
-
 2. Sprint Planning
-
-Duration: ~4-8 hours for a 4-week Sprint (shorter for smaller Sprints).
-Attendees: Product Owner, Scrum Master, Development Team.
-Purpose: Decide what work will be completed in the upcoming Sprint.
-
-Two parts:
-WHAT will be delivered? (Product Owner presents priorities)
-HOW will it be done? (Development Team breaks down work)
-
 3. Daily Scrum
-
-Duration: 15 minutes, every day.
-Attendees: Development Team (Scrum Master and Product Owner can attend but shouldn’t disrupt).
-Purpose: Sync the team’s work and plan the day.
-
 4. Sprint Review
-
-Duration: ~1-4 hours (depending on Sprint length).
-Attendees: Scrum Team, stakeholders.
-
-Purpose:
-Showcase the completed work.
-Gather feedback from stakeholders.
-Discuss possible changes for future Sprints.
-
 5. Sprint Retrospective
 
-Duration: ~1-3 hours.
-Attendees: Scrum Team.
-
-Purpose:
-Reflect on the past Sprint.
-Identify what went well, what didn’t, and what can be improved.
-Actionable improvements for the next Sprint.
-
-3- Scrum Key Deliverables:
+***3- Scrum Key Deliverables:***
 
 1. Product Backlog
-
-A prioritized list of everything needed in the product.
-Maintained by the Product Owner.
-Items are refined continuously.
-
 2. Sprint Backlog
-
-A set of tasks selected for the Sprint from the Product Backlog.
-Owned by the Development Team.
-Includes a Sprint Goal.
-
 3. Increment
-
-A working version of the product delivered at the end of each Sprint.
-Must meet the Definition of Done (DoD).
 
 **Benefits of Scrum** 
 
@@ -552,271 +451,188 @@ More flexibility in handling changing requirements.
 
 # Web Development Stacks
 
-A web application consists of multiple components that work together to deliver functionality, maintain security, and ensure scalability. These components can be divided into frontend (client-side), backend (server-side), and infrastructure services.
+![download (2)](https://github.com/user-attachments/assets/ef39ec3d-31ba-4a16-9591-3dca11c509e5)
 
-**1- Frontend (Client-Side)**
 
-The frontend is what users interact with. It runs in the browser and communicates with the backend.
+***Front-End Developer***
 
-Key Components:
+A Front-End Developer is someone who creates websites and web applications.
 
-**1. User Interface (UI)**
+**Client-side rendering**
 
-HTML (Structure)
-CSS (Styling)
-JavaScript (Behavior & Interactivity)
-Frontend frameworks (e.g., React, Angular, Vue.js)
+- a technique for rendering web content on the client-side.
+- The client requests a minimal HTML file from the server which contains the necessary JavaScript and CSS files.
 
-**2. Client-Side Logic**
+**Server-side rendering**
 
-Handles UI interactions, form validations, and user input.
-Fetches data from the backend via APIs (AJAX, Fetch, Axios).
+- a technique where a server generates the complete HTML for a webpage upfront, sending it ready for immediate display by a web browser.
+- Server-side rendering can be more complex and costly to implement than client-side rendering.
 
-**3. Static Assets**
+  **Blazor**
 
-Images, fonts, CSS files, JavaScript files, etc.
+  - a web framework developed by Microsoft that allows developers to build interactive web applications using C# and .NET instead of JavaScript.
 
-**4. Progressive Web App (PWA) Features** 
+  **Angular**
 
-Service Workers (Offline functionality)
-Web Push Notifications
-App Manifest for mobile-friendly experiences
+a development platform, built on TypeScript.
 
-**2- Backend (Server-Side)**
+As a platform, Angular includes:
 
-The backend handles business logic, data processing, authentication, and communication with databases.
+- A component-based framework for building scalable web applications.
+- A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication.
+- A suite of developer tools to help you develop, build, test, and update your code.
 
-**Key Components:**
+**Next.js**
 
-**1. Web Server**
+- an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static rendering.
 
-Handles HTTP requests and serves responses.
-Examples: Nginx, Apache, IIS.
+**HTML** 
 
-**2. Application Server**
+- Stand for HyperText Markup Language.
+- The code that is used to structure a web page and its content.
 
-Processes business logic.
-Frameworks: .NET, Node.js, Spring Boot, Django, Laravel.
+**Web API**
 
-**3. Database Server**
+- an application processing interface between a web server and web browser. All web services are APIs but not all APIs are web services. REST API is a special type of Web API that uses the standard architectural style.
 
-Stores and manages data.
-SQL Databases: MySQL, PostgreSQL, SQL Server.
-NoSQL Databases: MongoDB, Firebase, Cassandra.
+***Back-end Developer***
 
-**4. APIs (REST, GraphQL, gRPC)**
+- Back-end development means working on server-side software, which focuses on everything you can’t see on a website.
 
-Allows the frontend to communicate with the backend.
-Examples: Express.js, ASP.NET Web API, FastAPI.
+**C#**
 
-**5. Authentication & Authorization**
+- a general-purpose language that uses static typing, component-oriented structure, and employs multiple paradigms.
 
-Manages user access.
-OAuth, JWT, OpenID, SAML.
+**NET framework**
+ 
+ - a powerful and versatile tool for web development.
 
-**6. Caching Layer**
+**ORM**
 
-Improves performance by storing frequent requests.
-Examples: Redis, Memcached.
+- Object-Relational Mapping is a technique that allows developers to manipulate database data as if they were working with objects in their programming language.
 
-**7. Messaging & Event-Driven Architecture**
+**Entity Framework (EF)**
 
-Handles background tasks & real-time communication.
-Message brokers: RabbitMQ, Kafka.
-WebSockets for real-time updates.
+- an object-relational mapper that enables . NET developers to work with relational data using domain-specific objects.
 
-**8. File Storage**
+**Database**
 
-Manages user-uploaded content.
-Local: File System.
-Cloud: Amazon S3, Google Cloud Storage.
+- a storing system that collects organized data, to make some works easier like searching, structure, and extend.
 
-***3- Services***
+**SQL Server**
 
-These services ensure security, scalability, and performance.
+- ideal for storing all the desired information in relational databases, as well as to manage such data without complications.
 
-**Key Services:**
+  
+![download (1)](https://github.com/user-attachments/assets/6ab06875-e9a3-48b9-b517-1cb55031422e)
 
-**1. Load Balancer**
 
-Distributes traffic across multiple servers.
-Examples: AWS Elastic Load Balancer, HAProxy.
+## Web stacks
 
-**2. CDN (Content Delivery Network)**
+**MERN**
 
-Speeds up content delivery by caching assets closer to users.
-Examples: Cloudflare, Akamai.
+Where to Use:
 
-**3. Logging & Monitoring**
+Interactive UIs
+web applications
 
-Tracks application health & errors.
-Tools: Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), New Relic.
+When to Use:
 
-**4. CI/CD (Continuous Integration & Deployment)**
-
-Automates code testing & deployment.
-Tools: GitHub Actions, Jenkins, GitLab CI/CD.
-
-5. Security Services
-
-Firewalls, DDoS protection, Intrusion Detection Systems (IDS).
-Examples: WAF (Web Application Firewall), Cloudflare Security.
-
-6. Containerization & Orchestration
-
-Deploy apps in isolated environments.
-Tools: Docker, Kubernetes.
-
-7. Cloud Services
-
-Hosting & computing platforms.
-Examples: AWS, Azure, Google Cloud.
-
-8. Third-Party Integrations
-
-Payment gateways: Stripe, PayPal.
-Email services: SendGrid, Mailgun.
-Analytics: Google Analytics, Mixpanel.
-
-4. Web Application Architecture Types
-
-1. Monolithic Architecture
-
-Entire application is a single unit.
-Simpler but harder to scale.
-
-2. Microservices Architecture
-
-Application is broken into independent services.
-More scalable but complex.
-
-3. Serverless Architecture
-
-Uses cloud functions (AWS Lambda, Azure Functions).
-No need to manage servers.
-
-4. Single Page Application (SPA)
-
-Frontend dynamically updates without full page reload.
-Examples: React, Vue, Angular.
-
-Web Development Stacks
-
-1- MERN Stack (MongoDB, Express.js, React, Node.js)
-
-Where to Use: Dashboards, interactive applications, e-commerce platforms.
-
-When to Use: When frontend interactivity and performance are priorities.
-
-Key Features:
-React's component-based UI improves frontend performance.
-Node.js enables non-blocking, event-driven backend execution.
-Great for single-page applications (SPAs).
-
-2- Django Stack (Python, Django, PostgreSQL)
-
-Where to Use: Data-intensive applications, analytics dashboards, machine learning applications.
-
-When to Use: When security and scalability are important.
-
-Key Features:
-Built-in authentication and security features.
-Python-based backend simplifies integration with data analytics.
-ORM simplifies database interactions.
-
-3- Spring Boot Stack (Java, Spring Boot, PostgreSQL)
-
-Where to Use: Enterprise applications, financial systems, government platforms.
-
-When to Use: When building secure, scalable, high-performance enterprise applications.
-
-Key Features:
-Built-in security and authentication.
-Ideal for microservices architecture.
-Strong integration with enterprise databases.
-
-4- .NET Stack (ASP.NET Core, C#)
-
-Where to Use: Corporate portals, SaaS applications, enterprise software.
-
-When to Use: When working within the Microsoft ecosystem.
-
-Key Features:
-High performance and scalability.
-Strong security features.
-Excellent cloud and API support.
-
-5- Laravel Stack
-
-Where to Use: Business applications, SaaS, CRM, CMS (like WordPress alternatives), e-commerce.
-
-When to Use: When you need rapid development, clean architecture, built-in security, and easy API integration.
+When React is preferred over Angular.
 
 Features:
 
-1- MVC Architecture	
+Component-based
+great for UI/UX
 
-Laravel follows the Model-View-Controller (MVC) pattern, making code structured and maintainable.
+**.NET Stack**
 
-2- Blade Templating	
+Where to Use:
 
-Built-in templating engine for frontend rendering.
+Enterprise applications
+APIs
 
-3- Routing System	
+When to Use:
 
-Simple and efficient routing with middleware support.
+Secure
+high-performance
+Microsoft ecosystem
 
-4- Security	
+Features:
 
-Built-in authentication, role-based access control (RBAC), CSRF protection.
+Strongly typed
+scalable
+.NET-powered
 
-5- API Development	
+**Django Stack**
 
-Laravel provides built-in support for RESTful APIs, JSON responses, and GraphQL integration.
+Where to Use:
 
-6- Task Scheduling	
+Data-heavy apps
+ML-backed apps
 
-Laravel Scheduler helps automate jobs like email notifications, report generation.
+When to Use:
 
-7- Caching	
+Secure
+rapid development
+Python-based
 
-Supports Redis, Memcached, and file-based caching for performance.
+Features:
 
-8- Scalability	
+Batteries-included
+ORM
+scalable
 
-Works well with cloud-based solutions and microservices (Laravel Vapor for AWS).
+**Spring Boot**
 
-Tools of development that are used in .NET stack
 
-1- Integrated Development Environments (IDEs)
+Where to Use:
 
-Visual Studio : Full-featured IDE for .NET development.
-Visual Studio Code (VS Code) : Lightweight, cross-platform code editor.
-JetBrains Rider : Alternative IDE for .NET with great performance.
+Enterprise applications
+banking
 
-2- Programming Languages
+When to Use:
 
-C# : Main language for .NET applications.
-VB.NET : Used in legacy applications.
-F# : Functional programming language.
+Secure
+scalable
+microservices
 
-3- Frameworks
+Features:
 
-.NET (formerly .NET Core) : Modern, cross-platform framework.
-.NET Framework : Windows-only, used for older applications.
-Mono : Cross-platform runtime, mainly for Unity (game development).
+Java-powered
+robust
+good for large-scale apps
 
-4- Web Development
 
-ASP.NET Core : Web framework for building APIs and applications.
-Blazor : For building interactive web UIs with C#.
-Razor Pages : Simplified web application model in ASP.NET Core.
+![download (1)](https://github.com/user-attachments/assets/570e5232-ff3c-4d17-8c0d-fc31c1696870)
 
-5- DevOps Tools
 
-Azure DevOps : CI/CD, version control, and project management.
-GitHub Actions : Automation for builds, testing, and deployment.
-Docker : Containerization for .NET applications.
-Kubernetes : Orchestration for containerized apps.
-Azure Functions : Serverless computing with .NET.
+## Tools of development of .Net stack
+
+**Visual Studio** 
+- Full-featured IDE for .NET development (best for enterprise projects).
+**Visual Studio Code (VS Code)**
+- Lightweight editor with .NET extensions.
+**.NET Core**
+- Cross-platform framework for web, desktop, and cloud applications.
+**Entity Framework Core**
+- ORM for database interaction using C#.
+**Dapper**
+- Lightweight, high-performance micro-ORM for SQL database queries.
+**Blazor**
+- Framework for building interactive web UIs using C#.
+**SQL Server**
+- Performance monitoring tool for SQL queries.
+**Docker**
+- Containerization for .NET apps.
+**Serilog**
+- Structured logging for .NET apps
+**Postman**
+- API testing tool for sending HTTP requests.
+**OWASP**
+- provides best practices to protect web applications from vulnerabilities.
+**Stripe**
+- a popular payment gateway that allows businesses to process online transactions securely.
+
+# Git version control
 
