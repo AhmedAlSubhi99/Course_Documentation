@@ -17,3 +17,38 @@ When to use Git?
 In software development projects (especially in teams).
 When managing multiple versions of code.
 To track and manage changes efficiently.
+
+Cloud Repositories
+
+1. GitHub
+
+Open-source projects, team collaboration, enterprise DevOps
+
+Features:
+
+Unlimited public & private repositories
+Pull Requests (PRs) & Code Reviews
+GitHub Actions for CI/CD
+Security Scanning & Dependabot
+
+2. GitLab
+
+DevOps & CI/CD automation
+
+Features:
+
+Built-in CI/CD Pipelines
+Advanced Permissions & Access Control
+Auto DevOps for automated deployments
+Built-in Security & Compliance Tools
+
+3. Azure DevOps
+
+Enterprise .NET & Microsoft ecosystem users.
+
+Features:
+
+Azure Pipelines 
+Work Item Tracking & Agile Planning
+Supports Private Git Repositories
+Integrated Security & Compliance
