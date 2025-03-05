@@ -4,30 +4,13 @@
 
 # Table of Contents:
 
-<!-- TOC toc.levels=2 -->
+- ## Software Development Life Cycle
+- ## Agile And Scrum
+- ## Web Development Stacks
+- ## Git Cersion Control
 
-- ## [Software Development Life Cycle](#software-development-life-cycle)
-  - #### [Phases](##phases)
-  - #### [Roles of SDLC](##roles-of-sdlc)
-- ## [Agile And Scrum](#agile-and-scrum)
-  - #### [What is Agile Methodology?](#what-is-agile-methodology)
-  - #### [Purposes of Agile](#purposes-of-agile)
-  - #### [What is waterfall?](#what-iswaterfall)
-  - #### [What is agile?](#whatis-agile)
-  - #### [Agile Model Advantages](#agile-model-advantages)
-  - #### [Waterfall Model Advantages](#waterfall-model-advantages)
-  - #### [Waterfall Model Disadvantages](#waterfall-model-disadvantages)
-  - #### [When to Use Agile?](#when-to-use-agile)
-  - #### [When to Use Waterfall?](#when-to-use-waterfall)
-  - #### [Best Practices for Agile](#best-practicesfor-agile)
-  - #### [Best Practices for Waterfall](#best-practices-for-waterfall)
-  - #### [Agile Frameworks](#agile-frameworks)
-  - #### [Scrum Framework in Agile](#scrum-framework-in-agile)
-  - #### [Benefits of Scrum](#benefits-of-scrum)
-- ## [Web Development Stacks]
-- ## [Git Cersion Control]
 
-<!-- /TOC -->
+
 # Software Development Life Cycle
 Software Development Life Cycle provides a practical framework you can apply to your product and improve your processes. It helps us meet customers’ demands, needs, and expectations. You can outline and define a detailed plan for stages, phases, and requirements with SDLC. It covers planning, estimating, and scheduling.
 
@@ -636,3 +619,89 @@ good for large-scale apps
 
 # Git version control
 
+What is Git?
+
+Git is a distributed version control system (DVCS) used to track changes in code, collaborate with multiple developers, and manage project versions efficiently. It was created by Linus Torvalds.
+
+Why use Git?
+
+Tracks changes in files over time.
+Supports collaboration between multiple developers.
+Allows rollback to previous versions.
+Enables branching and merging for feature development.
+Works offline (local repository).
+
+When to use Git?
+
+In software development projects (especially in teams).
+When managing multiple versions of code.
+To track and manage changes efficiently.
+
+Cloud Repositories
+
+1. GitHub
+
+Open-source projects, team collaboration, enterprise DevOps
+
+Features:
+
+Unlimited public & private repositories
+Pull Requests (PRs) & Code Reviews
+GitHub Actions for CI/CD
+Security Scanning & Dependabot
+
+2. GitLab
+
+DevOps & CI/CD automation
+
+Features:
+
+Built-in CI/CD Pipelines
+Advanced Permissions & Access Control
+Auto DevOps for automated deployments
+Built-in Security & Compliance Tools
+
+3. Azure DevOps
+
+Enterprise .NET & Microsoft ecosystem users.
+
+Features:
+
+Azure Pipelines 
+Work Item Tracking & Agile Planning
+Supports Private Git Repositories
+Integrated Security & Compliance
+
+Common Git Commands
+
+git config --global user.name "Your Name"
+
+git config --global user.email "your-email@example.com"
+
+git init
+
+	Initialize a new Git repository
+
+git clone URL
+
+  Clone a remote repository
+
+git add .	
+
+  Stage all changed files
+  
+git commit -m "message"	
+
+  Commit staged changes
+
+git pull origin branch	
+
+  Fetch and merge remote changes
+  
+git push origin branch	
+
+  Push local changes to the remote repository
+  
+git log --oneline	
+
+  Show commit history (short format)
