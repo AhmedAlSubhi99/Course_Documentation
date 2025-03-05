@@ -1,0 +1,19 @@
+Git version control
+
+What is Git?
+
+Git is a distributed version control system (DVCS) used to track changes in code, collaborate with multiple developers, and manage project versions efficiently. It was created by Linus Torvalds.
+
+Why use Git?
+
+Tracks changes in files over time.
+Supports collaboration between multiple developers.
+Allows rollback to previous versions.
+Enables branching and merging for feature development.
+Works offline (local repository).
+
+When to use Git?
+
+In software development projects (especially in teams).
+When managing multiple versions of code.
+To track and manage changes efficiently.
