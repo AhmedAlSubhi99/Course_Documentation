@@ -619,11 +619,14 @@ good for large-scale apps
 
 # Git version control
 
-What is Git?
+**What is Git?**
+
+![download (3)](https://github.com/user-attachments/assets/66a6dd57-c0fa-434e-afed-cc9572e25dc8)
+
 
 Git is a distributed version control system (DVCS) used to track changes in code, collaborate with multiple developers, and manage project versions efficiently. It was created by Linus Torvalds.
 
-Why use Git?
+**Why use Git?**
 
 Tracks changes in files over time.
 Supports collaboration between multiple developers.
@@ -631,15 +634,17 @@ Allows rollback to previous versions.
 Enables branching and merging for feature development.
 Works offline (local repository).
 
-When to use Git?
+**When to use Git?**
 
 In software development projects (especially in teams).
 When managing multiple versions of code.
 To track and manage changes efficiently.
 
-Cloud Repositories
 
-1. GitHub
+
+**Cloud Repositories**
+
+**1. GitHub**
 
 Open-source projects, team collaboration, enterprise DevOps
 
@@ -650,7 +655,7 @@ Pull Requests (PRs) & Code Reviews
 GitHub Actions for CI/CD
 Security Scanning & Dependabot
 
-2. GitLab
+**2. GitLab**
 
 DevOps & CI/CD automation
 
@@ -661,7 +666,7 @@ Advanced Permissions & Access Control
 Auto DevOps for automated deployments
 Built-in Security & Compliance Tools
 
-3. Azure DevOps
+**3. Azure DevOps**
 
 Enterprise .NET & Microsoft ecosystem users.
 
@@ -672,36 +677,38 @@ Work Item Tracking & Agile Planning
 Supports Private Git Repositories
 Integrated Security & Compliance
 
-Common Git Commands
+![download (4)](https://github.com/user-attachments/assets/83df9927-dd8c-4c36-a0ba-c9b7e66e55d0)
 
-git config --global user.name "Your Name"
+**Common Git Commands**
 
-git config --global user.email "your-email@example.com"
+***git config --global user.name "Your Name"***
 
-git init
+***git config --global user.email "your-email@example.com"***
 
-	Initialize a new Git repository
+***git init***
 
-git clone URL
+  Initialize a new Git repository
+
+***git clone URL***
 
   Clone a remote repository
 
-git add .	
+***git add .***	
 
   Stage all changed files
   
-git commit -m "message"	
+***git commit -m "message"***	
 
   Commit staged changes
 
-git pull origin branch	
+***git pull origin branch***	
 
   Fetch and merge remote changes
   
-git push origin branch	
+***git push origin branch***	
 
   Push local changes to the remote repository
   
-git log --oneline	
+***git log --oneline***	
 
   Show commit history (short format)
