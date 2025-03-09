@@ -1,0 +1,196 @@
+Web Development Stacks
+
+Front-End Developer
+
+A Front-End Developer is someone who creates websites and web applications.
+
+Client-side rendering
+
+a technique for rendering web content on the client-side.
+The client requests a minimal HTML file from the server which contains the necessary JavaScript and CSS files.
+
+Server-side rendering
+
+a technique where a server generates the complete HTML for a webpage upfront, sending it ready for immediate display by a web browser.
+Server-side rendering can be more complex and costly to implement than client-side rendering.
+
+ Blazor
+
+  a web framework developed by Microsoft that allows developers to build interactive web applications using C# and .NET instead of JavaScript.
+
+Angular
+
+a development platform, built on TypeScript.
+
+As a platform, Angular includes:
+
+A component-based framework for building scalable web applications.
+A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication.
+A suite of developer tools to help you develop, build, test, and update your code.
+
+Next.js
+
+an open-source web development framework created by the private company Vercel providing React-based web applications with server-side rendering and static rendering.
+
+HTML
+
+Stand for HyperText Markup Language.
+The code that is used to structure a web page and its content.
+
+Web API
+
+an application processing interface between a web server and web browser. All web services are APIs but not all APIs are web services. REST API is a special type of Web API that uses the standard architectural style.
+
+Back-end Developer
+
+Back-end development means working on server-side software, which focuses on everything you can’t see on a website.
+
+C#
+
+a general-purpose language that uses static typing, component-oriented structure, and employs multiple paradigms.
+
+NET framework
+ 
+a powerful and versatile tool for web development.
+
+ORM
+
+Object-Relational Mapping is a technique that allows developers to manipulate database data as if they were working with objects in their programming language.
+
+Entity Framework (EF)
+
+an object-relational mapper that enables . NET developers to work with relational data using domain-specific objects.
+
+Database
+
+a storing system that collects organized data, to make some works easier like searching, structure, and extend.
+
+SQL Server
+
+ideal for storing all the desired information in relational databases, as well as to manage such data without complications.
+
+Web stacks
+
+MERN
+
+Where to Use:
+
+Interactive UIs
+web applications
+
+When to Use:
+
+When React is preferred over Angular.
+
+Features:
+
+Component-based
+great for UI/UX
+
+.NET Stack
+
+Where to Use:
+
+Enterprise applications
+APIs
+
+When to Use:
+
+Secure
+high-performance
+Microsoft ecosystem
+
+Features:
+
+Strongly typed
+scalable
+.NET-powered
+
+Django Stack
+
+Where to Use:
+
+Data-heavy apps
+ML-backed apps
+
+When to Use:
+
+Secure
+rapid development
+Python-based
+
+Features:
+
+Batteries-included
+ORM
+scalable
+
+Spring Boot
+
+
+Where to Use:
+
+Enterprise applications
+banking
+
+When to Use:
+
+Secure
+scalable
+microservices
+
+Features:
+
+Java-powered
+robust
+good for large-scale apps
+
+Tools of development of .Net stack
+
+Visual Studio
+
+Full-featured IDE for .NET development (best for enterprise projects).
+
+Visual Studio Code (VS Code)
+
+Lightweight editor with .NET extensions.
+
+.NET Core
+
+Cross-platform framework for web, desktop, and cloud applications.
+
+Entity Framework Core
+
+ORM for database interaction using C#.
+
+Dapper
+
+Lightweight, high-performance micro-ORM for SQL database queries.
+
+Blazor
+
+Framework for building interactive web UIs using C#.
+
+SQL Server
+
+Performance monitoring tool for SQL queries.
+
+Docker
+
+Containerization for .NET apps.
+
+Serilog
+
+Structured logging for .NET apps
+
+Postman
+
+API testing tool for sending HTTP requests.
+
+OWASP
+
+provides best practices to protect web applications from vulnerabilities.
+
+Stripe
+
+a popular payment gateway that allows businesses to process online transactions securely.
