@@ -1,0 +1,55 @@
+Reverse string 
+
+1. Start
+2. read the word (print word)
+3. calculate the length of the word
+4. read reverse ( rev= " ")
+5. read i = length - 1
+6. if i >= 0 :
+6.1. rev = rev + 1
+6.2. i = i - 1
+7. print rev
+8. stop
+_________________________________________________________________
+
+search in list of student marks for the highest one
+
+1. start 
+2. list the of students marks ( sami= 85 , ali = 88 , jamal = 80)
+3. if ali > sami and ali > jamal
+3.1. then print ali is high mark 
+4. if no then sami > jamal
+4.1 print sami is high mark
+5. if no then print jamal is high mark
+6. stop
+__________________________________________________________________
+
+sort the students marks from highest to lowest
+
+1. start 
+2. input the marks of students= n
+3. calculate the length of n ( len = length(n) )
+3.1 i = i+1
+4. compare the first mark with the second mark 
+5.if first mark greater than second mark then keep first mark
+6. move to second mark and compare it with third mark.
+7. if second mark greater than third mark if no swap them.
+8. put them in new list
+9. keep looping until sorting from high to low
+10. stop
+__________________________________________________________________
+
+check if number is palindrome or not
+
+1. Start
+2. Read the input number (num)
+3. put rev=0
+4. num = n
+4. loop until num !=0 become false
+x = num % 10 ( reminder)
+rev1= 10 + x
+num = num / 10
+5. Check if reverse = n
+6. If true then the number is a palindrome
+7. If not, the number is NOT a palindrome
+8: Stop

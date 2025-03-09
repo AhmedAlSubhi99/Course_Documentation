@@ -1,0 +1,49 @@
+Sequential Algorithm (Step-by-step Execution):
+
+Finding the Sum of Two Numbers 
+1. take two numbers as input. 
+2. Add them together. 
+3. Return the sum
+_____________________________________________________________________________________
+
+Iterative Algorithm (Using Loops)
+
+Finding Factorial of a Number (Iterative) 
+1. Set the result to 1. 
+2. Start from 1 and multiply the result by each number up to the get the number. 
+3. then return the result. 
+_____________________________________________________________________________________
+
+Recursive Algorithm (Function Calls Itself)
+
+1. If the number is 0 or 1, return 1. 
+2. Multiply the number by the factorial of (number - 1). 
+3. Keep looping until reaching 1. 
+_____________________________________________________________________________________
+
+1. Find the Largest Number in a List
+
+x={2,6,8,1,4}
+
+1. Take value of x is equal to first element compare it with the other numbers.
+2. compare it with the other numbers.
+3. if value of x greater than the largest number of second element.
+4. then compare it for each element then who the number is largest then take it the largest one.
+_____________________________________________________________________________________
+
+2. Count the Number of Vowels in a String
+
+1. input the word
+2. write the vowels (a,e,i,o,u)
+3. calculate the number of word and equal it by variable (y)
+4. if the letter a,e,i,o,u the first letter then count it
+5. if the first not vowel then go next letter by y+1(increase count by 1) until finish.
+_____________________________________________________________________________________
+
+3. Reverse a String 
+
+1. input word
+2. calculate the number of word and equal it by variable (y)
+3. put y-1
+4. z+1 (z= the letter of starting.)
+5. put y=0, to stop the looping intil reach y=0.
