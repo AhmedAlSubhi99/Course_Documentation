@@ -712,3 +712,49 @@ Integrated Security & Compliance
 ***git log --oneline***	
 
   Show commit history (short format)
+
+# Programming Paradigms
+
+***Programming paradigm is an approach to solve problem using some programming language.***
+
+
+# ![Programming paradigm](https://github.com/user-attachments/assets/c20979e6-d6d2-4724-92c2-bc3b60076ed6)
+
+**Types of Programming Paradigms:**
+
+### 1. Imperative programming paradigm
+
+- It is one of the oldest programming paradigm.
+- It features close relation to machine architecture. 
+- It is based on Von Neumann architecture. 
+- It works by changing the program state through assignment statements. 
+- It performs step by step task by changing state. 
+
+##### ***Advantages:*** 
+
+1- Very simple to implement
+2- It contains loops, variables etc.
+
+##### ***Disadvantage:***
+
+1- Complex problem cannot be solved.
+2- Less efficient and less productive.
+3- Parallel programming is not possible.
+
+### 2. Declarative programming paradigm: 
+
+- It is divided as Logic, Functional, Database. 
+- In computer science the declarative programming is a style of building programs that expresses logic of computation without talking about its control flow. 
+- It often considers programs as theories of some logic.
+- It may simplify writing parallel programs.
+
+##### ***Advantages:****
+
+1- Short, efficient code.
+2- Can be implemented using methods not yet known at the time of programming.
+
+##### ***Disadvantages:***
+
+1- Sometimes hard to understand for external people.
+2- Based on an unfamiliar conceptual model for people (solution state).
+
