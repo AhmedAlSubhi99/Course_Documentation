@@ -587,7 +587,7 @@ robust
 good for large-scale apps
 
 
-![download (1)](https://github.com/user-attachments/assets/570e5232-ff3c-4d17-8c0d-fc31c1696870)
+# ![download (1)](https://github.com/user-attachments/assets/570e5232-ff3c-4d17-8c0d-fc31c1696870)
 
 
 ## Tools of development of .Net stack
@@ -621,7 +621,7 @@ good for large-scale apps
 
 **What is Git?**
 
-![download (3)](https://github.com/user-attachments/assets/66a6dd57-c0fa-434e-afed-cc9572e25dc8)
+# ![download (3)](https://github.com/user-attachments/assets/66a6dd57-c0fa-434e-afed-cc9572e25dc8)
 
 
 Git is a distributed version control system (DVCS) used to track changes in code, collaborate with multiple developers, and manage project versions efficiently. It was created by Linus Torvalds.
@@ -677,7 +677,7 @@ Work Item Tracking & Agile Planning
 Supports Private Git Repositories
 Integrated Security & Compliance
 
-![download (4)](https://github.com/user-attachments/assets/83df9927-dd8c-4c36-a0ba-c9b7e66e55d0)
+# ![download (4)](https://github.com/user-attachments/assets/83df9927-dd8c-4c36-a0ba-c9b7e66e55d0)
 
 **Common Git Commands**
 
