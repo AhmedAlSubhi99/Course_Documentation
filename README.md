@@ -732,14 +732,14 @@ Integrated Security & Compliance
 
 ##### ***Advantages:*** 
 
-1- Very simple to implement
-2- It contains loops, variables etc.
+- Very simple to implement
+- It contains loops, variables etc.
 
 ##### ***Disadvantage:***
 
-1- Complex problem cannot be solved.
-2- Less efficient and less productive.
-3- Parallel programming is not possible.
+- Complex problem cannot be solved.
+- Less efficient and less productive.
+- Parallel programming is not possible.
 
 ### 2. Declarative programming paradigm: 
 
@@ -748,13 +748,13 @@ Integrated Security & Compliance
 - It often considers programs as theories of some logic.
 - It may simplify writing parallel programs.
 
-##### ***Advantages:****
+##### ***Advantages:***
 
-1- Short, efficient code.
-2- Can be implemented using methods not yet known at the time of programming.
+- Short, efficient code.
+- Can be implemented using methods not yet known at the time of programming.
 
 ##### ***Disadvantages:***
 
-1- Sometimes hard to understand for external people.
-2- Based on an unfamiliar conceptual model for people (solution state).
+- Sometimes hard to understand for external people.
+- Based on an unfamiliar conceptual model for people (solution state).
 
