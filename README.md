@@ -989,6 +989,11 @@ Example: Visual Studio is commonly used for C# development.
 
 # Programming Coding
 
+
+![Programming Coding](https://github.com/user-attachments/assets/c03e3a67-a029-4b50-af3b-df6dd55d360b)
+
+
+
 #### 1. Data Types, Variables, Constants, and Input/Output Statements
 
 ***Data Types:***
