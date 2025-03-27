@@ -8,6 +8,7 @@
 - ## Agile And Scrum
 - ## Web Development Stacks
 - ## Git Cersion Control
+- ## Programming Paradigms
 
 
 
@@ -713,6 +714,8 @@ Integrated Security & Compliance
 
   Show commit history (short format)
 
+  =============================================================================================
+  
 # Programming Paradigms
 
 ***Programming paradigm is an approach to solve problem using some programming language.***
