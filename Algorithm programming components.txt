@@ -1,0 +1,66 @@
+Algorithm programming components 
+
+
+Algorithm programming involves designing step-by-step solutions to solve computational problems. Here are the fundamental components:
+
+1. Input
+
+- The data or values provided to the algorithm for processing.
+
+Example: An array of numbers to be sorted.
+
+int age = 25;
+double price = 19.99;
+string name = "Alice";
+
+
+2. Output
+
+- The result produced after executing the algorithm.
+
+Example: A sorted array.
+
+
+3. Operations & Computations
+
+- The logical steps and calculations performed on the input.
+
+Example: Addition, subtraction, comparisons, loops.
+
+                          int AddNumbers(int a, int b) 
+                          {
+                               return a + b;
+                          }
+
+
+4. Control Structures
+
+- Sequential Execution: Instructions execute one after another.
+
+Conditional Statements (if, switch): Decision-making processes.
+
+Loops (for, while): Repeating a block of code based on a condition.
+
+// If-else
+
+                          if (age >= 18) 
+                         {
+                            Console.WriteLine("Adult");
+                         }
+
+// For loop
+
+                          for (int i = 0; i < 5; i++) 
+                          {
+                               Console.WriteLine(i);
+                          }
+
+
+5. Data Structures
+
+- Organizing data efficiently for processing.
+
+Example: Arrays, linked lists, stacks, queues, hash tables, trees, graphs.
+
+                    int[] numbers = {1, 2, 3, 4, 5};
+                    List<string> names = new List<string>();

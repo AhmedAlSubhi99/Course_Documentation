@@ -1,0 +1,64 @@
+Programming languages
+
+What is a Programming Language?
+
+- A programming language is a formal system used to write instructions that a computer can execute, bridging human logic and machine operations.
+
+Types of Programming Languages
+
+1- Low-Level Languages
+
+- Directly interact with hardware; difficult to understand.
+
+Example: Assembly, Machine Code.
+
+2- High-Level Languages
+
+- Easier for humans to read and write.
+
+Example: C, Java, Python, C#.
+
+3- Compiled Languages
+
+- Entire code is compiled into machine code before execution.
+
+Example: C, C++, Rust.
+
+4- Interpreted Languages
+
+- Code is executed line-by-line during runtime.
+
+Example: Python, JavaScript.
+
+5- Hybrid Languages
+
+- First compiled into intermediate code, then interpreted at runtime.
+
+Example: C#, Java.
+
+6- Object-Oriented Programming (OOP)
+
+- Code is structured using classes and objects.
+
+Example: C#, Java, Python.
+
+7- Functional Programming 
+
+- Focuses on pure functions and immutability.
+
+Example: Haskell, Lisp, JavaScript.
+
+
+C# - A Hybrid Language
+
+- C# combines both compiled and interpreted approaches using:
+
+- Compilation: C# code is compiled into Intermediate Language (IL).
+
+-  Interpretation: At runtime, the CLR (Common Language Runtime) interprets and compiles IL into machine code using JIT (Just-In-Time) compilation.
+
+IDE (Integrated Development Environment)
+
+- An IDE provides tools to write, debug, and deploy code more efficiently.
+
+Example: Visual Studio is commonly used for C# development.

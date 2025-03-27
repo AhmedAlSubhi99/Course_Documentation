@@ -1,0 +1,55 @@
+Comparison of compiler and interpreter
+
+1. Execution Approach
+
+- Compiler: Converts the entire program into machine code before execution.
+
+- Interpreter: Translates and executes code line-by-line at runtime.
+
+2. Speed
+
+- Compiler: Faster execution (since code is pre-compiled).
+
+- Interpreter: Slower (due to real-time translation).
+
+3. Debugging
+
+- Compiler: Shows errors after compilation (harder to debug).
+
+- Interpreter: Stops and shows errors immediately (easier debugging).
+
+4. Memory Usage
+
+ - Compiler: Requires more memory (stores machine code).
+
+- Interpreter: Uses less memory (no intermediate code).
+
+5. Portability
+
+- Compiler: Generates machine-dependent executables (less portable).
+
+- Interpreter: Runs anywhere with an interpreter (more portable).
+
+6. Error Handling
+
+- Compiler: Reports all errors at once after compilation.
+
+- Interpreter: Stops at the first error encountered.
+
+7. Distribution
+
+- Compiler: Distributes executable files (binary).
+
+- Interpreter: Distributes source code directly.
+
+8. Examples
+
+- Compiler: C, C++, Go, Rust.
+
+- Interpreter: Python, JavaScript, Ruby.
+
+9. Best Use Cases
+
+- Compiler: High-performance applications (games, OS, system software).
+
+- Interpreter: Scripting, rapid development, and dynamic languages.
